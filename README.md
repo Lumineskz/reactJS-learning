@@ -1,4 +1,5 @@
 ## My React JS learning experience
+This repository is made to document my react learning experience.
 ### I'm learning React JS From the video:
 https://www.youtube.com/watch?v=CgkZ7MvWUAA
 ### and their official site
